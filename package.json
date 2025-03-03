@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathnaeltamirat/node_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathnaeltamirat/node_express/issues"
+  },
+  "homepage": "https://github.com/nathnaeltamirat/node_express#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
